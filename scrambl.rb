@@ -1,3 +1,5 @@
+ #!/usr/bin/env ruby
+
 list_of_english_words = File.readlines('/Users/marcus/Desktop/wordsEn.txt') # load in the list of words
 list_of_english_words.each { |word| word.chomp! } # strip all the \r\n\ newline characters
 
