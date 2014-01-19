@@ -1,6 +1,6 @@
  #!/usr/bin/env ruby
 
-list_of_english_words = File.readlines('./wordsEn.txt') # load in the list of words
+list_of_english_words = File.readlines('./words.txt') # load in the list of words
 list_of_english_words.each { |word| word.chomp! } # strip all the \r\n\ newline characters
 
 test_word_array = ARGF.argv[0].chars # assign test_word from command line argument and split into characters
