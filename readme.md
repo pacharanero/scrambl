@@ -4,7 +4,7 @@ Scrambl is a script for finding all the words you can make out of any other word
 
 `$ ruby scrambl.rb <word>`
 
-where the single command line argument <code><word></code> is the "source" word, the word you want to make other words out of.
+where the single command line argument `<word>` is the "source" word, ie the word you want to make other words out of.
 
 Example:
 
