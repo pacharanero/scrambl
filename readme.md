@@ -1,4 +1,4 @@
-Scrambl is a script for finding all the words you can make out of any other word. It will also solve the Countdown Conundrum.
+Scrambl is a script for finding all the words you can make out of any other word. It will also solve the Countdown Conundrum. Despite all the iterators required for such a script, it's only 11 lines of Ruby.
 
 ##Usage
 
